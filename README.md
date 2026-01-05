@@ -1,6 +1,6 @@
 <div align="center">
   
-# **`Awesome`** Static Application Security Testing ([SAST](https://wikipedia.org/wiki/Static_application_security_testing))
+# **`Awesome`** Static Application Security Testing ([SAST](https://wikipedia.org/wiki/Static_application_security_testing)) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
