@@ -26,6 +26,9 @@ ______________________________________________________________________
 ---
 ---
 
+- [Opengrep](https://github.com/opengrep/opengrep) - Static code analysis engine to find security issues in code.
+- [Semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+
 
 ##
 
