@@ -1,5 +1,57 @@
 <div align="center">
 
+```mermaid
+mindmap
+  root((Static Application </br> Security Testing))
+
+    Frontend
+      Lexer
+      Parser
+      AST
+
+    Program Analysis
+      CFG
+      DFG
+      Call Graph
+      Symbol Table
+
+    Analysis Methods
+      Pattern Matching
+      Data Flow
+      Control Flow
+      Taint Analysis
+      Symbolic Execution
+
+    Security Weaknesses
+      SQL Injection
+      XSS
+      Command Injection
+      Buffer Overflow
+      Integer Overflow
+      Hardcoded Secrets
+      Race Conditions
+
+    Compliance
+      OWASP
+      CWE
+      CVE
+      CERT
+
+    Tools
+      Semgrep
+      CodeQL
+      SonarQube
+      Fortify
+      Checkmarx
+      Coverity
+
+    DevSecOps
+      IDE Scanning
+      Pull Request Scanning
+      CI CD Integration
+      Build Gates
+```
+
 # **`Awesome`** Static Application Security Testing ([SAST](https://wikipedia.org/wiki/Static_application_security_testing)) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
